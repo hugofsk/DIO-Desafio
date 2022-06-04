@@ -1,4 +1,4 @@
-# Repositório do desafio de GIG/GITHUB do curso de introdução
+# Repositório do desafio de GIT/GITHUB do curso de introdução
 Desafio DIO meu 1° repositório
 
 
